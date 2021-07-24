@@ -1,4 +1,4 @@
-### To-do list of subjects for studies
+### To-do list for studies
 
 [<img src="https://about.gitlab.com/images/icons/ci-cd-logo.svg" width="100"/>](image.png)
 - [O que é um pipeline de CI/CD?](https://www.redhat.com/pt-br/topics/devops/what-cicd-pipeline)
